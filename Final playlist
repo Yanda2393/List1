@@ -2891,6 +2891,28 @@ http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/27783.ts
 http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/27715.ts
 #EXTINF:-1 tvg-name="diema sport bulgaria" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/0xxcqo1627492559.png" group-title="🔴SPORT EROPA",Diema Sport Bulgaria 3
 http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/715009.ts
+#EXTINF:-1 tvg-name="Ziggo Sport Docu NL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="🔴SPORT EROPA",Ziggo Sport Docu NL
+https://webhdrunns.mizhls.ru/lb/premium383/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Ziggo Sport Select NL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="🔴SPORT EROPA",Ziggo Sport Select NL
+https://webhdrunns.mizhls.ru/lb/premium393/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Ziggo Sport Racing NL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="🔴SPORT EROPA",Ziggo Sport Racing NL
+https://webhdrunns.mizhls.ru/lb/premium396/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Ziggo Sport Voetbal NL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ziggo_Sport_Logo.jpg" group-title="🔴SPORT EROPA",Ziggo Sport Voetbal NL
+https://webhdrunns.mizhls.ru/lb/premium398/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sport TV1 Portugal" tvg-logo="http://xplatinmedia.com:8080/images/e0f25aea9e95eb82e2cdf7843587b103.png" group-title="🔴SPORT EROPA",Sport TV1 Portugal
+https://webhdrunns.mizhls.ru/lb/premium49/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sport TV2 Portugal" tvg-logo="http://xplatinmedia.com:8080/images/ab2cf083d6fa69fe349aabf245402f74.png" group-title="🔴SPORT EROPA",Sport TV2 Portugal
+https://webhdrunns.mizhls.ru/lb/premium74/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sport TV3 Portugal" tvg-logo="http://xplatinmedia.com:8080/images/30e30adbca61414fc596acd1c02b43c7.png" group-title="🔴SPORT EROPA",Sport TV3 Portugal
+https://webhdrunns.mizhls.ru/lb/premium454/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sport TV4 Portugal" tvg-logo="http://xplatinmedia.com:8080/images/93fddebb05ffe7912c2429924e3823e1.png" group-title="🔴SPORT EROPA",Sport TV4 Portugal
+https://webhdrunns.mizhls.ru/lb/premium289/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sport TV5 Portugal" tvg-logo="http://xplatinmedia.com:8080/images/34fedc0466562b71d029d3e099e7e068.png" group-title="🔴SPORT EROPA",Sport TV5 Portugal
+https://webhdrunns.mizhls.ru/lb/premium290/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sport TV6 Portugal" tvg-logo="http://xplatinmedia.com:8080/images/78dccd7e314e76ab6f3039a76bf4a9af.png" group-title="🔴SPORT EROPA",Sport TV6 Portugal
+https://webhdrunns.mizhls.ru/lb/premium291/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
 
 ==========================LALIGA M+& Hypermotion==================================================================================================================================================================================
 
