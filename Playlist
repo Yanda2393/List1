@@ -2481,30 +2481,3 @@ http://extraott.com:80/live/6945574629/7169628753/33539.m3u8
 http://extraott.com:80/live/6945574629/7169628753/33538.m3u8
 
 ==========================BEIN SPORT=================
-
-SD [BK1]" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="BEIN SPORTS",AR| BEIN SPORTS MAX 1 SD [BK1]
-http://extraott.com:80/live/6945574629/7169628753/53354.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR| BEIN SPORTS MAX 2 SD" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="BEIN SPORTS",AR| BEIN SPORTS MAX 2 SD
-http://extraott.com:80/live/6945574629/7169628753/93.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 2 SD [BK]" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="BEIN SPORTS",AR| BEIN SPORTS MAX 2 SD [BK]
-http://extraott.com:80/live/6945574629/7169628753/53383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 2 SD [BK1]" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="BEIN SPORTS",AR| BEIN SPORTS MAX 2 SD [BK1]
-http://extraott.com:80/live/6945574629/7169628753/53353.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="AR| BEIN SPORTS MAX 3 SD" tvg-logo="https://lo1.in/bss/BEIN 3MAX.png" group-title="BEIN SPORTS",AR| BEIN SPORTS MAX 3 SD
-http://extraott.com:80/live/6945574629/7169628753/94.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 3 SD [BK]" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" group-title="BEIN SPORTS",AR| BEIN SPORTS MAX 3 SD [BK]
-http://extraott.com:80/live/6945574629/7169628753/53382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 3 SD [BK1]" tvg-logo="https://lo1.in/bss/BEIN%203MAX.png" group-title="BEIN SPORTS",AR| BEIN SPORTS MAX 3 SD [BK1]
-http://extraott.com:80/live/6945574629/7169628753/53352.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax4.qa" tvg-name="AR| BEIN SPORTS MAX 4 SD" tvg-logo="https://lo1.in/bss/bs4max1.png" group-title="BEIN SPORTS",AR| BEIN SPORTS MAX 4 SD
-http://extraott.com:80/live/6945574629/7169628753/95.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 4 SD [BK]" tvg-logo="https://lo1.in/bss/bs4max1.png" group-title="BEIN SPORTS",AR| BEIN SPORTS MAX 4 SD [BK]
-http://extraott.com:80/live/6945574629/7169628753/53381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 4 SD [BK1]" tvg-logo="https://lo1.in/bss/bs4max1.png" group-title="BEIN SPORTS",AR| BEIN SPORTS MAX 4 SD [BK1]
-http://extraott.com:80/live/6945574629/7169628753/53351.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 5 SD [BK1]" tvg-logo="https://lo1.in/bss/bs5max.png" group-title="BEIN SPORTS",AR| BEIN SPORTS MAX 5 SD [BK1]
-http://extraott.com:80/live/6945574629/7169628753/53350.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 6 SD [BK1]" tvg-logo="https://lo1.in/bss/bs6max.png" group-title="BEIN SPORTS",AR| BEIN SPORTS MAX 6 SD [BK1]
-http://extraott.com:80/live/6945574629/7169628753/53349.m3u8
-
-
