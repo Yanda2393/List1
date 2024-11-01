@@ -1167,6 +1167,40 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #EXTINF:-1 group-title="🔴SPORTS INDONESIA" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-l.png",Sportstars 2 HD
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="🔴SPORTS INDONESIA",🇲🇨 Champions TV 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play.php?id=6685&type=drm
+https://wumbodumbo.serv00.net/red/play.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="🔴SPORTS INDONESIA",🇲🇨 Champions TV 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play.php?id=6686&type=drm
+https://wumbodumbo.serv00.net/red/play.mpd?id=6686&type=dash
+
+#EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="🔴SPORTS INDONESIA",🇲🇨 Champions TV 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play.php?id=6786&type=drm
+https://wumbodumbo.serv00.net/red/play.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="🔴SPORTS INDONESIA",🇲🇨 Champions TV 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play.php?id=9182&type=drm
+https://wumbodumbo.serv00.net/red/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="🔴SPORTS INDONESIA",🇲🇨 Champions TV 6
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wumbodumbo.serv00.net/red/play.php?id=9183&type=drm
+https://wumbodumbo.serv00.net/red/play.mpd?id=9183&type=dash
 
 <============================ Sports ========================>
 
