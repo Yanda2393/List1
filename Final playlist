@@ -1093,6 +1093,57 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite
 
 ==================================DAZN SPORT================================================
 
+
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="🔴DAZN SPORT",ES| DAZN 1 HD
+http://extraott.com:80/live/6945574629/7169628753/165068.m3u8
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 HD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="🔴DAZN SPORT",ES| DAZN 2 HD
+http://extraott.com:80/live/6945574629/7169628753/165070.m3u8
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 HD" tvg-logo="https://lo1.in/sp/DAZN 3.png" group-title="🔴DAZN SPORT",ES| DAZN 3 HD
+http://extraott.com:80/live/6945574629/7169628753/379046.m3u8
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 HD" tvg-logo="https://lo1.in/sp/DAZN 4.png" group-title="🔴DAZN SPORT",ES| DAZN 4 HD
+http://extraott.com:80/live/6945574629/7169628753/379047.m3u8
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 SD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="🔴DAZN SPORT",ES| DAZN 1 SD
+http://extraott.com:80/live/6945574629/7169628753/400218246.m3u8
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 SD" tvg-logo="https://lo1.in/sp/DAZN 2.png" group-title="🔴DAZN SPORT",ES| DAZN 2 SD
+http://extraott.com:80/live/6945574629/7169628753/400218228.m3u8
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 SD" tvg-logo="https://lo1.in/sp/DAZN 3.png" group-title="🔴DAZN SPORT",ES| DAZN 3 SD
+http://extraott.com:80/live/6945574629/7169628753/400218227.m3u8
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 SD" tvg-logo="https://lo1.in/sp/DAZN 4.png" group-title="🔴DAZN SPORT",ES| DAZN 4 SD
+http://extraott.com:80/live/6945574629/7169628753/400218226.m3u8
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="🔴DAZN SPORT",ES| DAZN 1 FHD
+http://extraott.com:80/live/6945574629/7169628753/360194.m3u8
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="🔴DAZN SPORT",ES| DAZN 2 FHD
+http://extraott.com:80/live/6945574629/7169628753/360195.m3u8
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 FHD" tvg-logo="https://lo1.in/sp/DAZN 3.png" group-title="🔴DAZN SPORT",ES| DAZN 3 FHD
+http://extraott.com:80/live/6945574629/7169628753/379042.m3u8
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 FHD" tvg-logo="https://lo1.in/sp/DAZN 4.png" group-title="🔴DAZN SPORT",ES| DAZN 4 FHD
+http://extraott.com:80/live/6945574629/7169628753/379043.m3u8
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN 1 HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="🔴DAZN SPORT",ES| DAZN 1 HEVC
+http://extraott.com:80/live/6945574629/7169628753/360196.m3u8
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN 2 HEVC" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="🔴DAZN SPORT",ES| DAZN 2 HEVC
+http://extraott.com:80/live/6945574629/7169628753/360197.m3u8
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES| DAZN 3 HEVC" tvg-logo="https://lo1.in/sp/DAZN 3.png" group-title="🔴DAZN SPORT",ES| DAZN 3 HEVC
+http://extraott.com:80/live/6945574629/7169628753/379044.m3u8
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES| DAZN 4 HEVC" tvg-logo="https://lo1.in/sp/DAZN 4.png" group-title="🔴DAZN SPORT",ES| DAZN 4 HEVC
+http://extraott.com:80/live/6945574629/7169628753/379045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN THE LEAGUE" tvg-logo="https://lo1.in/sp/sp.png" group-title="🔴DAZN SPORT",DAZN THE LEAGUE
+http://extraott.com:80/live/6945574629/7169628753/400479670.m3u8
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN LA LIGA 1 HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="🔴DAZN SPORT",ES| DAZN LA LIGA 1 HD
+http://extraott.com:80/live/6945574629/7169628753/400440768.m3u8
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN LA LIGA 2 HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="🔴DAZN SPORT",ES| DAZN LA LIGA 2 HD
+http://extraott.com:80/live/6945574629/7169628753/400440767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 1 SD" tvg-logo="https://lo1.in/it/dzn.png" group-title="🔴DAZN SPORT",ES| DAZN LA LIGA 1 SD
+http://extraott.com:80/live/6945574629/7169628753/21098.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 2 SD" tvg-logo="https://lo1.in/it/dzn.png" group-title="🔴DAZN SPORT",ES| DAZN LA LIGA 2 SD
+http://extraott.com:80/live/6945574629/7169628753/21099.m3u8
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN LA LIGA 1 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="🔴DAZN SPORT",ES| DAZN LA LIGA 1 FHD
+http://extraott.com:80/live/6945574629/7169628753/400440766.m3u8
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES| DAZN LA LIGA 2 FHD" tvg-logo="https://lo1.in/it/dzn.png" group-title="🔴DAZN SPORT",ES| DAZN LA LIGA 2 FHD
+http://extraott.com:80/live/6945574629/7169628753/400440765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 1 HEVC" tvg-logo="https://lo1.in/it/dzn.png" group-title="🔴DAZN SPORT",ES| DAZN LA LIGA 1 HEVC
+http://extraott.com:80/live/6945574629/7169628753/33569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA 2 HEVC" tvg-logo="https://lo1.in/it/dzn.png" group-title="🔴DAZN SPORT",ES| DAZN LA LIGA 2 HEVC
+http://extraott.com:80/live/6945574629/7169628753/33568.m3u8
 #EXTINF:-1 group-title="🔴DAZN SPORT" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
