@@ -75,7 +75,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid
 https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png" group-title="🔴INDONESIA CHANNEL 2",NET
 http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
-#EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mentaritv.png?raw=true" group-title="Indonesia Channels",Mentari TV
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mentaritv.png?raw=true" group-title="🔴INDONESIA CHANNEL 2,Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1637,7 +1637,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium415/index.m3u8|referer=https://weblive
 https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-name="SuperSport MaXimo 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="🔴SUPERSPORT",SS MaXimo 1
 https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="SuperSport Motorsport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="Supersport",SS Motorsport
+#EXTINF:-1 tvg-name="SuperSport Motorsport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="🔴SUPERSPORT",SS Motorsport
 https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
