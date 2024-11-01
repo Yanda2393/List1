@@ -2403,7 +2403,7 @@ https://stream.streamaudio.de:8000/teststream3
 https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
-<====================================== Others ==============================>
+<====================================== LALIGA ==============================>
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_ATV-2.png" tvg-id="" group-title="Others",Suriname-ATV 1
 https://live.suricloud.com/hls/atv1/1_2/index.m3u8?tkn=3676201257
@@ -2438,6 +2438,46 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slp
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLyhemHAcRbMV37QaWRRgl7HwayP1KtmnYvQ&s" tvg-id="" group-title="Others",Portugal-RTP Memoria
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b1290000_slpt.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 8 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 8 FHD
+http://extraott.com:80/live/6945574629/7169628753/33806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 9 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 9 FHD
+http://extraott.com:80/live/6945574629/7169628753/33805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 10 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 10 FHD
+http://extraott.com:80/live/6945574629/7169628753/33804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 11 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 11 FHD
+http://extraott.com:80/live/6945574629/7169628753/33803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 12 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 12 FHD
+http://extraott.com:80/live/6945574629/7169628753/33802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 13 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 13 FHD
+http://extraott.com:80/live/6945574629/7169628753/33801.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES| M+ LCAMPEONS 4K" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LCAMPEONS 4K
+http://extraott.com:80/live/6945574629/7169628753/400241868.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES| M+ LIGA DE CAMPEONES 1 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 1 HEVC
+http://extraott.com:80/live/6945574629/7169628753/189457.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES| M+ LIGA DE CAMPEONES 2 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 2 HEVC
+http://extraott.com:80/live/6945574629/7169628753/375700.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES| M+ LIGA DE CAMPEONES 3 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 3 HEVC
+http://extraott.com:80/live/6945574629/7169628753/62812.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES| M+ LIGA DE CAMPEONES 4 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 4 HEVC
+http://extraott.com:80/live/6945574629/7169628753/62811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 5 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 5 HEVC
+http://extraott.com:80/live/6945574629/7169628753/33546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 6 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 6 HEVC
+http://extraott.com:80/live/6945574629/7169628753/33545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 7 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 7 HEVC
+http://extraott.com:80/live/6945574629/7169628753/33544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 8 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 8 HEVC
+http://extraott.com:80/live/6945574629/7169628753/33543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 9 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 9 HEVC
+http://extraott.com:80/live/6945574629/7169628753/33542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 10 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 10 HEVC
+http://extraott.com:80/live/6945574629/7169628753/33541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 11 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 11 HEVC
+http://extraott.com:80/live/6945574629/7169628753/33540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 12 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 12 HEVC
+http://extraott.com:80/live/6945574629/7169628753/33539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 13 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="CHAMPIONS LEAGU",ES| M+ LIGA DE CAMPEONES 13 HEVC
+http://extraott.com:80/live/6945574629/7169628753/33538.m3u8
 
 
 
