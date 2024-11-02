@@ -677,7 +677,40 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 group-title="🔴Premium Movies" tvg-id="Zee Bioskop - [Channel 23].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-<================ Korean Channels ===================>
+  
+============================OPTUS SPORT==================
+  
+#EXTINF:-1 tvg-id="1.OPTUS" tvg-name="au| optus 01 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="🔴 OPTUS SPORT",AU| OPTUS 01 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37401.m3u8
+#EXTINF:-1 tvg-id="2.OPTUS" tvg-name="au| optus 02 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="🔴 OPTUS SPORT",AU| OPTUS 02 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37400.m3u8
+#EXTINF:-1 tvg-id="3.OPTUS" tvg-name="au| optus 03 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="🔴 OPTUS SPORT",AU| OPTUS 03 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37399.m3u8
+#EXTINF:-1 tvg-id="4.OPTUS" tvg-name="au| optus 04 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="🔴 OPTUS SPORT",AU| OPTUS 04 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37398.m3u8
+#EXTINF:-1 tvg-id="5.OPTUS" tvg-name="au| optus 05 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="🔴 OPTUS SPORT",AU| OPTUS 05 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37397.m3u8
+#EXTINF:-1 tvg-id="6.OPTUS" tvg-name="au| optus 06 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="🔴 OPTUS SPORT",AU| OPTUS 06 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37396.m3u8
+#EXTINF:-1 tvg-id="7.OPTUS" tvg-name="au| optus 07 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="🔴 OPTUS SPORT",AU| OPTUS 07 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37395.m3u8
+#EXTINF:-1 tvg-id="8.OPTUS" tvg-name="au| optus 08 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="🔴 OPTUS SPORT",AU| OPTUS 08 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37394.m3u8
+#EXTINF:-1 tvg-id="9.OPTUS" tvg-name="au| optus 09 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="🔴 OPTUS SPORT",AU| OPTUS 09 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37393.m3u8
+#EXTINF:-1 tvg-id="10.OPTUS" tvg-name="au| optus 10 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="🔴 OPTUS SPORT",AU| OPTUS 10 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37392.m3u8
+#EXTINF:-1 tvg-id="11.OPTUS" tvg-name="au| optus 11 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="🔴 OPTUS SPORT",AU| OPTUS 11 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37391.m3u8
+#EXTINF:-1 tvg-name="|au| australia" tvg-logo="https://lo1.in/aust/flg.png" group-title="🔴 OPTUS SPORT",|AU| AUSTRALIA
+http://extraott.com:80/live/6945574629/7169628753/118198.m3u8
+#EXTINF:-1 tvg-name="stan sports event" tvg-logo="https://lo1.in/aust/flg.png" group-title="🔴 OPTUS SPORT",STAN SPORTS EVENT
+http://extraott.com:80/live/6945574629/7169628753/34580.m3u8
+#EXTINF:-1 tvg-name="au optus event" tvg-logo="https://lo1.in/aust/flg.png" group-title="🔴 OPTUS SPORT",AU OPTUS EVENT
+http://extraott.com:80/live/6945574629/7169628753/37402.m3u8
+
+  
+  <================ Korean Channels ===================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
