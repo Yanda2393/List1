@@ -2984,7 +2984,8 @@ http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/356027.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/fpKYZrr/setantasp2.png" group-title="🔴SPORT EROPA",SETANTA LALIGA 2
 https://rzkgtzlsvbb.a.trbcdn.net/Setanta2_La_Liga/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/VDqDFL0/setantaspkz.png" group-title="🔴SPORT EROPA",SETANTA SPORT
+https://8k1bqvttdjh.a.trbcdn.net/SetantaUA/index.m3u8
 
 #EXTINF:-1 tvg-name="arena sport 1 premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMtJWaK_IIEPivLIsP6ngQIhZtVx8sjM-g-g&usqp=CAU" group-title="🔴SPORT EROPA",Arena Sport 1 Premium
 http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1445811.ts
