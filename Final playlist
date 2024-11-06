@@ -1,4 +1,4 @@
-#EXTM3U
+Dr#EXTM3U
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
@@ -2546,6 +2546,72 @@ https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 
   
 ======================================== LIGA CHAMPION============================
+
+
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES| M+ LIGA DE CAMPEONES 1 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 1 HD
+http://extraott.com:80/live/6945574629/7169628753/165968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 1 HD [BK]" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 1 HD [BK]
+http://extraott.com:80/live/6945574629/7169628753/401188657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 1 HD [BK1]" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 1 HD [BK1]
+http://extraott.com:80/live/6945574629/7169628753/401188656.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES| M+ LIGA DE CAMPEONES 2 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 2 HD
+http://extraott.com:80/live/6945574629/7169628753/375702.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES| M+ LIGA DE CAMPEONES 3 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 3 HD
+http://extraott.com:80/live/6945574629/7169628753/400173248.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES| M+ LIGA DE CAMPEONES 4 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 4 HD
+http://extraott.com:80/live/6945574629/7169628753/400173249.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="ES| M+ LIGA DE CAMPEONES 5 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 5 HD
+http://extraott.com:80/live/6945574629/7169628753/400173250.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="ES| M+ LIGA DE CAMPEONES 6 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 6 HD
+http://extraott.com:80/live/6945574629/7169628753/400173251.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="ES| M+ LIGA DE CAMPEONES 7 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 7 HD
+http://extraott.com:80/live/6945574629/7169628753/400173252.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="ES| M+ LIGA DE CAMPEONES 8 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 8 HD
+http://extraott.com:80/live/6945574629/7169628753/400173253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 9 HD" tvg-logo="https://lo1.in/sp/M+ LALIGA TV HYPERMOTIONTV BAR.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 9 HD
+http://extraott.com:80/live/6945574629/7169628753/400220789.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES| M+ LIGA DE CAMPEONES 1 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 1 SD
+http://extraott.com:80/live/6945574629/7169628753/400218282.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES| M+ LIGA DE CAMPEONES 2 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 2 SD
+http://extraott.com:80/live/6945574629/7169628753/400230644.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES| M+ LIGA DE CAMPEONES 3 SD" tvg-logo="https://lo1.in/sp/sender.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 3 SD
+http://extraott.com:80/live/6945574629/7169628753/400230643.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES| M+ LIGA DE CAMPEONES 4 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 4 SD
+http://extraott.com:80/live/6945574629/7169628753/400218278.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="ES| M+ LIGA DE CAMPEONES 5 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 5 SD
+http://extraott.com:80/live/6945574629/7169628753/400218277.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="ES| M+ LIGA DE CAMPEONES 6 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 6 SD
+http://extraott.com:80/live/6945574629/7169628753/400218276.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="ES| M+ LIGA DE CAMPEONES 7 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 7 SD
+http://extraott.com:80/live/6945574629/7169628753/400218275.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="ES| M+ LIGA DE CAMPEONES 8 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 8 SD
+http://extraott.com:80/live/6945574629/7169628753/400218274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 9 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 9 SD
+http://extraott.com:80/live/6945574629/7169628753/400218273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 10 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 10 SD
+http://extraott.com:80/live/6945574629/7169628753/400218272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 11 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 11 SD
+http://extraott.com:80/live/6945574629/7169628753/1245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 12 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 12 SD
+http://extraott.com:80/live/6945574629/7169628753/1244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 13 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 13 SD
+http://extraott.com:80/live/6945574629/7169628753/18406.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES| M+ LIGA DE CAMPEONES 1 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 1 FHD
+http://extraott.com:80/live/6945574629/7169628753/187582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 1 FHD [BK]" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 1 FHD [BK]
+http://extraott.com:80/live/6945574629/7169628753/401188655.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES| M+ LIGA DE CAMPEONES 2 FHD" tvg-logo="https://lo1.in/sp/M+ LIGA DE CAMPEONES 4.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 2 FHD
+http://extraott.com:80/live/6945574629/7169628753/187584.m3u8
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES| M+ LIGA DE CAMPEONES 3 FHD" tvg-logo="https://lo1.in/sp/mvstlg10.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 3 FHD
+http://extraott.com:80/live/6945574629/7169628753/187563.m3u8
+#EXTINF:-1 tvg-id="mLALIGA TV HYPERMOTION9.es" tvg-name="ES| M+ LIGA DE CAMPEONES 4 FHD" tvg-logo="https://lo1.in/sp/mvstlg9.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 4 FHD
+http://extraott.com:80/live/6945574629/7169628753/187562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 5 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 5 FHD
+http://extraott.com:80/live/6945574629/7169628753/400407282.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 6 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 6 FHD
+http://extraott.com:80/live/6945574629/7169628753/400407281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 7 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 7 FHD
+http://extraott.com:80/live/6945574629/7169628753/33807.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 8 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 8 FHD
 http://extraott.com:80/live/6945574629/7169628753/33806.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 9 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="🔴LIGA CHAMPION",ES| M+ LIGA DE CAMPEONES 9 FHD
