@@ -1723,6 +1723,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #EXTINF:-1 group-title="🔴SPORTS INDONESIA" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-l.png",Sportstars 2 HD
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="🔴SPORTS INDONESIA",GTV_(xtv)
+http://xtv.ooo:8080/live/71891100/66181910/350954.ts
+
+#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="🔴SPORTS INDONESIA", GTV (4k)
+http://teratv4k.com:8880/286223017941/158348647463/412151
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="🔴SPORTS INDONESIA",GTV_(xtv)
+http://xtv.ooo:8080/live/71891100/66181910/350954.ts
+
 #EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="🔴SPORTS INDONESIA",🇲🇨 Champions TV 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
