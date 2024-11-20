@@ -865,7 +865,7 @@ http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/733122
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/733123
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🇦🇺AUSTRALIA SPORT",OPTUS 11 Australia
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/733124
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/optus.png" group-title=🇦🇺AUSTRALIA SPORT,OPTUS 12 Australia
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🇦🇺AUSTRALIA SPORT",OPTUS 12 Australia
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/733125
 
 
@@ -5259,6 +5259,63 @@ https://zeestb.cdn77.icu/love4all.php?id=186596&extension=ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", TRUE.SPORTS.7 (php)
 https://zeestb.cdn77.icu/love4all.php?id=186598&extension=ts
   
+  
+  
+========== ESPN & FOX SPORT ======
+
+#EXTINF:-1 tvg-name="ESPN USA" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="🏆ESPN & FOX SPORT",ESPN USA
+https://webhdrunns.mizhls.ru/lb/premium44/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="ESPN2 USA" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="🏆ESPN & FOX SPORT",ESPN2 USA
+https://webhdrunns.mizhls.ru/lb/premium45/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="ESPN USA" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="🏆ESPN & FOX SPORT",ESPNU USA
+https://webhdrunns.mizhls.ru/lb/premium316/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-id="SV - ESPN" tvg-name="ESPN 1 | CENTRO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-centro-hd.png" group-title="🏆ESPN & FOX SPORT",ESPN 1 | ESPN 1
+https://nxt.plus:8443/leonardo/1234/25201
+
+
+#EXTINF:-1 tvg-id="SV - ESPN 2" tvg-name="ESPN 2 | CENTRO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-centro-hd.png" group-title="🏆ESPN & FOX SPORT",ESPN 2 | ESPN 2
+https://nxt.plus:8443/leonardo/1234/25210
+
+
+#EXTINF:-1 tvg-id="GT - ESPN 3" tvg-name="ESPN 3 | CENTRO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-centro-hd.png" group-title="🏆ESPN & FOX SPORT",ESPN 3 | ESPN 3
+https://nxt.plus:8443/leonardo/1234/25211
+
+
+#EXTINF:-1 tvg-id="ESPN4.uy" tvg-name="ESPN 4 | CENTRO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-4-sur.png" group-title="🏆ESPN & FOX SPORT",ESPN 4 | ESPN 4
+https://nxt.plus:8443/leonardo/1234/763
+
+
+
+#EXTINF:-1 tvg-name="FOX Soccer Plus" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="🏆ESPN & FOX SPORT",FOX Soccer Plus
+https://webhdrunns.mizhls.ru/lb/premium756/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="Fox Cricket" tvg-logo="https://dl.dropbox.com/scl/fi/s9bhqat2nf8iwxrxg9sqh/20240328_162122.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="🏆ESPN & FOX SPORT",Fox Cricket
+https://webhdrunns.mizhls.ru/lb/premium369/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="Fox Sports 1 USA" tvg-logo="https://lo1.in/us/fox33.png" group-title="🏆ESPN & FOX SPORT",Fox Sports 1 USA
+https://webhdrunns.mizhls.ru/lb/premium39/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Fox Sports 2 USA" tvg-logo="https://lo1.in/us/fox33.png" group-title="🏆ESPN & FOX SPORT",Fox Sports 2 USA
+https://webhdrunns.mizhls.ru/lb/premium758/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="FOX Sports 502 AU" tvg-logo="https://lo1.in/us/fox33.png" group-title="🏆ESPN & FOX SPORT",FOX Sports 502 AU
+https://webhdrunns.mizhls.ru/lb/premium820/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="FOX Sports 503 AU" tvg-logo="https://lo1.in/us/fox33.png" group-title="🏆ESPN & FOX SPORT",FOX Sports 503 AU
+https://webhdrunns.mizhls.ru/lb/premium821/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="FOX Sports 504 AU" tvg-logo="https://lo1.in/us/fox33.png" group-title="🏆ESPN & FOX SPORT",FOX Sports 504 AU
+https://webhdrunns.mizhls.ru/lb/premium822/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="FOX Sports 505 AU" tvg-logo="https://lo1.in/us/fox33.png" group-title="🏆ESPN & FOX SPORT",FOX Sports 505 AU
+https://webhdrunns.mizhls.ru/lb/premium823/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="FOX Sports 506 AU" tvg-logo="https://lo1.in/us/fox33.png" group-title="🏆ESPN & FOX SPORT",FOX Sports 506 AU
+https://webhdrunns.mizhls.ru/lb/premium824/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="FOX Sports 507 AU" tvg-logo="https://lo1.in/us/fox33.png" group-title="🏆ESPN & FOX SPORT",FOX Sports 507 AU
+https://webhdrunns.mizhls.ru/lb/premium825/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="Fox Sports 2 Argentina" tvg-logo="https://lo1.in/us/fox33.png" group-title="🏆ESPN & FOX SPORT",Fox Sports 2 Argentina
+https://webhdrunns.mizhls.ru/lb/premium788/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Fox Sports 3 Argentina" tvg-logo="https://lo1.in/us/fox33.png" group-title="🏆ESPN & FOX SPORT",Fox Sports 3 Argentina
+https://webhdrunns.mizhls.ru/lb/premium789/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
   
   
   
