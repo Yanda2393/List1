@@ -311,7 +311,7 @@ https://surf.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/rcti.png" group-title="",RCTI (R+)
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/rcti.png" group-title="🔴INDONESIA CHANNEL",RCTI (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTVLCOPT:http-user-agent=android-R+
