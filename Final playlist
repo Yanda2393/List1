@@ -3866,83 +3866,114 @@ http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/756471.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="⚽SPORT EROPA",TNT Sports 3 ( CL )
 http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/756472.ts
 
-#EXTINF:-1 tvg-name="tsn1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/1fba41bf57803049ca52a3131bf7b749.png" group-title="⚽SPORT EROPA",TSN1
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/356023.ts
-#EXTINF:-1 tvg-name="tsn2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/4b4253c607eecccc31f0ada0140f70c8.png" group-title="⚽SPORT EROPA",TSN2
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/356024.ts
-#EXTINF:-1 tvg-name="tsn3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/524a82ac877c54d21ea7d3132de37ed7.png" group-title="⚽SPORT EROPA",TSN3
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/356025.ts
-#EXTINF:-1 tvg-name="tsn4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/d8a2cfab425dd04c3cf3d811ed48b338.png" group-title="⚽SPORT EROPA",TSN4
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/356026.ts
-#EXTINF:-1 tvg-name="tsn5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/e1e3ffe429c6873b30cf62cdf0f0b4ae.png" group-title="⚽SPORT EROPA",TSN5
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/356027.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/fpKYZrr/setantasp2.png" group-title="⚽SPORT EROPA",SETANTA LALIGA 2
 https://rzkgtzlsvbb.a.trbcdn.net/Setanta2_La_Liga/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/VDqDFL0/setantaspkz.png" group-title="⚽SPORT EROPA",SETANTA SPORT
 https://8k1bqvttdjh.a.trbcdn.net/SetantaUA/index.m3u8
 
-#EXTINF:-1 tvg-name="arena sport 1 premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMtJWaK_IIEPivLIsP6ngQIhZtVx8sjM-g-g&usqp=CAU" group-title="⚽SPORT EROPA",Arena Sport 1 Premium
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1445811.ts
-#EXTINF:-1 tvg-name="arena sport 2 premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Arena-2-premium_266x2001.png/revision/latest/scale-to-width-down/284?cb=20221111133122" group-title="⚽SPORT EROPA",Arena Sport 2 Premium
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1445812.ts
-#EXTINF:-1 tvg-name="arena sport 3 premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQikySATc8DRcIj-UQOubEJnbKSVHBp9_4YLw&usqp=CAU" group-title="⚽SPORT EROPA",Arena Sport 3 Premium
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1445813.ts
 
-#EXTINF:-1 tvg-name="arena sport 1 serbia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/28a5988d58871ad37addfecddb8781dd.png" group-title="⚽SPORT EROPA",Arena Sport 1 ( SERBIA )
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1445567.ts
-#EXTINF:-1 tvg-name="arena sport 2 serbia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/27a53b708ea0b3ab77447d5acf013093.png" group-title="⚽SPORT EROPA",Arena Sport 2 ( SERBIA )
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/104500.ts
-#EXTINF:-1 tvg-name="arena sport 3 serbia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c4084fb33d4ad424d6f069449027760f.png" group-title="⚽SPORT EROPA",Arena Sport 3 ( SERBIA )
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/104501.ts
-#EXTINF:-1 tvg-name="arena sport 4 serbia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/294bde9c094cfed3084c2826c4c620f1.png" group-title="⚽SPORT EROPA",Arena Sport 4 ( SERBIA )
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/104502.ts
-#EXTINF:-1 tvg-name="arena sport 4 serbia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/294bde9c094cfed3084c2826c4c620f1.png" group-title="⚽SPORT EROPA",Arena Sport 5 ( SERBIA )
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1445567.ts
+#EXTINF:-1 tvg-name="Sport Klub 1 Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/512px-Sportklub_Logo.svg.png?20200424131353" group-title="⚽SPORT EROPA",Sport Klub 1 Serbia
+https://webhdrunns.mizhls.ru/lb/premium101/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sport Klub 2 Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/512px-Sportklub_Logo.svg.png?20200424131353" group-title="⚽SPORT EROPA",Sport Klub 2 Serbia
+https://webhdrunns.mizhls.ru/lb/premium102/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sport Klub 3 Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/512px-Sportklub_Logo.svg.png?20200424131353" group-title="⚽SPORT EROPA",Sport Klub 3 Serbia
+https://webhdrunns.mizhls.ru/lb/premium103/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sport Klub 4 Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/512px-Sportklub_Logo.svg.png?20200424131353" group-title="⚽SPORT EROPA",Sport Klub 4 Serbia
+https://webhdrunns.mizhls.ru/lb/premium104/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sport Klub HD Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sportklub_Logo.svg/512px-Sportklub_Logo.svg.png?20200424131353" group-title="⚽SPORT EROPA",Sport Klub HD Serbia
+https://webhdrunns.mizhls.ru/lb/premium453/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-name="arena sport 1 croatia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3e22bab3e6cc787ceb5445d6c4fad694.png" group-title="⚽SPORT EROPA",Arena Sport 1 Croatia
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/104503.ts
-#EXTINF:-1 tvg-name="arena sport 2 croatia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/8540b09c6c9b9e4fe035d27166426736.png" group-title="⚽SPORT EROPA",Arena Sport 2 Croatia
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/104504.ts
-#EXTINF:-1 tvg-name="arena sport 3 croatia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/37f61d2b06d6d3ae0fd3d72f35ee378f.png" group-title="⚽SPORT EROPA",Arena Sport 3 Croatia
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/104505.ts
-#EXTINF:-1 tvg-name="arena sport 4 croatia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ef9d0183b1ffd0b974331dcfe61fc406.png" group-title="⚽SPORT EROPA",Arena Sport 4 Croatia
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/104506.ts
-#EXTINF:-1 tvg-name="arena sport 5 croatia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREiNlIUDlNljscUEICvDpE--xfiPTe7K8OJF8mDoeEbymNACZbXNBlYnr_&s=10" group-title="⚽SPORT EROPA",Arena Sport 5 Croatia
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/104507.ts
-#EXTINF:-1 tvg-name="arena sport 6 croatia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVOYqm-9UX5p2z7oT0_JFRIIiD_NFWiipMIWkMvVzCq4V-4w-Wh_s_DTw&s=10" group-title="⚽SPORT EROPA",Arena Sport 6 Croatia
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/498444.ts
-#EXTINF:-1 tvg-name="arena sport 7 croatia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Arena_Sport_7_%282021%2C_short%29.svg/revision/latest/scale-to-width-down/250?cb=20221111214150" group-title="⚽SPORT EROPA",Arena Sport 7 Croatia
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/498445.ts
-#EXTINF:-1 tvg-name="arena sport 8 croatia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVEI4SzyQIxjSP1cqVI14wQW8GJGmJ8hu_6w&usqp=CAU" group-title="⚽SPORT EROPA",Arena Sport 8 Croatia
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/498446.ts
-#EXTINF:-1 tvg-name="arena sport 9 croatia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Arena_Sport_9_HR_logo.png/revision/latest/scale-to-width-down/250?cb=20221111132457" group-title="⚽SPORT EROPA",Arena Sport 9 Croatia
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/498447.ts
-#EXTINF:-1 tvg-name="arena sport 10 croatia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Arena_Sport_10_HR_logo.png/revision/latest/scale-to-width-down/250?cb=20221111132613" group-title="⚽SPORT EROPA",Arena Sport 10 Croatia
-http://opplex.tv:8080/live/1525939/1552699/349301.ts
+#EXTINF:-1 tvg-name="TSN1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/1fba41bf57803049ca52a3131bf7b749.png" group-title="⚽SPORT EROPA",TSN1
+https://webhdrunns.mizhls.ru/lb/premium111/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="TSN2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/4b4253c607eecccc31f0ada0140f70c8.png" group-title="⚽SPORT EROPA",TSN2
+https://webhdrunns.mizhls.ru/lb/premium112/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="TSN3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/524a82ac877c54d21ea7d3132de37ed7.png" group-title="⚽SPORT EROPA",TSN3
+https://webhdrunns.mizhls.ru/lb/premium113/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="TSN4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/d8a2cfab425dd04c3cf3d811ed48b338.png" group-title="⚽SPORT EROPA",TSN4
+https://webhdrunns.mizhls.ru/lb/premium114/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="TSN5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/e1e3ffe429c6873b30cf62cdf0f0b4ae.png" group-title="⚽SPORT EROPA",TSN5
+https://webhdrunns.mizhls.ru/lb/premium115/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" group-title="⚽SPORT EROPA",Arena 1 Premium
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1445811.ts
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" group-title="⚽SPORT EROPA",Arena 2 Premium
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/526775.ts
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" group-title="⚽SPORT EROPA",Arena 3 Premium
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/526776.ts
 
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png" group-title="⚽SPORT EROPA",Arena Sport 1
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/104498.ts
+#EXTINF:-1 tvg-name="Arena Sport 1 Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/090de75234de847112cba1cece75f848.png" group-title="⚽SPORT EROPA",Arena Sport 1 Premium
+https://webhdrunns.mizhls.ru/lb/premium134/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Arena Sport 2 Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/975c7b2205f06f913fe2a189b15f0b28.png" group-title="⚽SPORT EROPA",Arena Sport 2 Premium
+https://webhdrunns.mizhls.ru/lb/premium135/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Arena Sport 3 Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bd4b8dcc76204c0d067249a3b62a085d.png" group-title="⚽SPORT EROPA",Arena Sport 3 Premium
+https://webhdrunns.mizhls.ru/lb/premium139/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Arena Sport 1 Serbia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/28a5988d58871ad37addfecddb8781dd.png" group-title="⚽SPORT EROPA",Arena Sport 1 Serbia
+https://webhdrunns.mizhls.ru/lb/premium429/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Arena Sport 2 Serbia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/27a53b708ea0b3ab77447d5acf013093.png" group-title="⚽SPORT EROPA",Arena Sport 2 Serbia
+https://webhdrunns.mizhls.ru/lb/premium430/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Arena Sport 3 Serbia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c4084fb33d4ad424d6f069449027760f.png" group-title="⚽SPORT EROPA",Arena Sport 3 Serbia
+https://webhdrunns.mizhls.ru/lb/premium431/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Arena Sport 4 Serbia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/294bde9c094cfed3084c2826c4c620f1.png" group-title="⚽SPORT EROPA",Arena Sport 4 Serbia
+https://webhdrunns.mizhls.ru/lb/premium581/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Arena Sport 1 Croatia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3e22bab3e6cc787ceb5445d6c4fad694.png" group-title="⚽SPORT EROPA",Arena Sport 1 Croatia
+https://webhdrunns.mizhls.ru/lb/premium432/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Arena Sport 2 Croatia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/8540b09c6c9b9e4fe035d27166426736.png" group-title="⚽SPORT EROPA",Arena Sport 2 Croatia
+https://webhdrunns.mizhls.ru/lb/premium433/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Arena Sport 3 Croatia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/37f61d2b06d6d3ae0fd3d72f35ee378f.png" group-title="⚽SPORT EROPA",Arena Sport 3 Croatia
+https://webhdrunns.mizhls.ru/lb/premium434/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Arena Sport 4 Croatia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ef9d0183b1ffd0b974331dcfe61fc406.png" group-title="⚽SPORT EROPA",Arena Sport 4 Croatia
+https://webhdrunns.mizhls.ru/lb/premium580/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/Arenasport1x2.bh.png" group-title="⚽SPORT EROPA",Arena Sport 1x2
-http://opplex.tv:8080/live/1525939/1552699/353734.ts
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png" group-title="⚽SPORT EROPA",Arena Sport 2
+#EXTINF:-1 group-title="⚽SPORT EROPA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 1 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+#EXTINF:-1 group-title="⚽SPORT EROPA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 2 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+#EXTINF:-1 group-title="⚽SPORT EROPA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 3 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+#EXTINF:-1 group-title="⚽SPORT EROPA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+#EXTINF:-1 group-title="⚽SPORT EROPA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/Arenasport1x2.bh.png",Arena Sport 1x2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
+#EXTINF:-1 group-title="⚽SPORT EROPA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png",Arena Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png" group-title="⚽SPORT EROPA",Arena Sport 3
+#EXTINF:-1 group-title="⚽SPORT EROPA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png",Arena Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport4.bh.png" group-title="⚽SPORT EROPA",Arena Sport 4
+#EXTINF:-1 group-title="⚽SPORT EROPA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport4.bh.png",Arena Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport5.bh.png" group-title="⚽SPORT EROPA",Arena Sport 5
+#EXTINF:-1 group-title="⚽SPORT EROPA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport5.bh.png",Arena Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png" group-title="⚽SPORT EROPA",Arena Sport 6
+#EXTINF:-1 group-title="⚽SPORT EROPA" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png",Arena Sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcfDXxO9tesLsj4pttBH5nxUDG4A06rmm1gsr3Hk_ZtxbGt02K__dqWVu&s=10" group-title="⚽SPORT EROPA",CANAL+ SPORT 1
 http://iptvtree.net:8080/live/Luctv2024/c6b6031eb1/143.ts
@@ -5168,6 +5199,20 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/78314
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/48359
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" group-title="⚽SPORTTV", SportTV 7 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/122446
+
+  
+#EXTINF:-1 tvg-name="Sport TV1 Portugal" tvg-logo="http://xplatinmedia.com:8080/images/e0f25aea9e95eb82e2cdf7843587b103.png" group-title="⚽SPORT EROPA",Sport TV1 Portugal
+https://webhdrunns.mizhls.ru/lb/premium49/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sport TV2 Portugal" tvg-logo="http://xplatinmedia.com:8080/images/ab2cf083d6fa69fe349aabf245402f74.png" group-title="⚽SPORT EROPA",Sport TV2 Portugal
+https://webhdrunns.mizhls.ru/lb/premium74/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sport TV3 Portugal" tvg-logo="http://xplatinmedia.com:8080/images/30e30adbca61414fc596acd1c02b43c7.png" group-title="⚽SPORT EROPA",Sport TV3 Portugal
+https://webhdrunns.mizhls.ru/lb/premium454/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sport TV4 Portugal" tvg-logo="http://xplatinmedia.com:8080/images/93fddebb05ffe7912c2429924e3823e1.png" group-title="⚽SPORT EROPA",Sport TV4 Portugal
+https://webhdrunns.mizhls.ru/lb/premium289/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sport TV5 Portugal" tvg-logo="http://xplatinmedia.com:8080/images/34fedc0466562b71d029d3e099e7e068.png" group-title="⚽SPORT EROPA",Sport TV5 Portugal
+https://webhdrunns.mizhls.ru/lb/premium290/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="Sport TV6 Portugal" tvg-logo="http://xplatinmedia.com:8080/images/78dccd7e314e76ab6f3039a76bf4a9af.png" group-title="⚽SPORT EROPA",Sport TV6 Portugal
+https://webhdrunns.mizhls.ru/lb/premium291/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
   ============ TRUE SPORT ============
