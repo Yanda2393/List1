@@ -5500,78 +5500,6 @@ http://109.61.81.147:2080/cdn2/4886/video.m3u8?token=4444
 http://109.61.81.147:2080/cdn2/1053/video.m3u8?token=4444
   
   ========== LIVE EVENT 2===========
-#EXTINF:-1,PPV MAIN EVENT 1: tvg-id="" tvg-name="PPV| LIVE EVENT 1 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 1 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477461
-#EXTINF:-1,PPV MAIN EVENT 2:  tvg-id="" tvg-name="PPV| LIVE EVENT 2 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 2 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477462
-#EXTINF:-1,PPV MAIN EVENT 3:  tvg-id="" tvg-name="PPV| LIVE EVENT 3[EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 3 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477463
-#EXTINF:-1,PPV MAIN EVENT 4: tvg-id="" tvg-name="PPV| LIVE EVENT 4[EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 4 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477464
-#EXTINF:-1,PPV MAIN EVENT 5:  tvg-id="" tvg-name="PPV| LIVE EVENT 5 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 5 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477465
-#EXTINF:-1,PPV MAIN EVENT 6:  tvg-id="" tvg-name="PPV| LIVE EVENT  6 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 6 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477466
-#EXTINF:-1,PPV MAIN EVENT 7:tvg-id="" tvg-name="PPV| LIVE EVENT 7 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 7 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477467
-#EXTINF:-1,PPV MAIN EVENT 8:tvg-id="" tvg-name="PPV| LIVE EVENT 8 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 8 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477468
-#EXTINF:-1,PPV MAIN EVENT 9: tvg-id="" tvg-name="PPV| LIVE EVENT 9 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 9 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477469
-#EXTINF:-1,PPV MAIN EVENT 10:  tvg-id="" tvg-name="PPV| LIVE EVENT 10 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2 l",PPV| LIVE EVENT 10 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477470
-
-
-
-
-
-#EXTINF:-1,PPV MAIN EVENT 1: tvg-id="" tvg-name="PPV| LIVE EVENT 1 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 1 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452729
-
-#EXTINF:-1,PPV MAIN EVENT 2: tvg-id="" tvg-name="PPV| LIVE EVENT 2 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 2  [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452730
-
-#EXTINF:-1,PPV MAIN EVENT 3: tvg-id="" tvg-name="PPV| LIVE EVENT 3 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 3  [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452731
-#EXTINF:-1,PPV MAIN EVENT 4: tvg-id="" tvg-name="PPV| LIVE EVENT 4 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 4 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452732
-#EXTINF:-1,PPV MAIN EVENT 5: tvg-id="" tvg-name="PPV| LIVE EVENT 5 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 5 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452733
-#EXTINF:-1,PPV MAIN EVENT 6: tvg-id="" tvg-name="PPV| LIVE EVENT 6 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 6 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452734
-#EXTINF:-1,PPV MAIN EVENT 7: tvg-id="" tvg-name="PPV| LIVE EVENT 7 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 7 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452735
-#EXTINF:-1,PPV MAIN EVENT 8: tvg-id="" tvg-name="PPV| LIVE EVENT 8 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 8 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452736
-#EXTINF:-1,PPV MAIN EVENT 9: tvg-id="" tvg-name="PPV| LIVE EVENT 9 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 9 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452737
-#EXTINF:-1,PPV MAIN EVENT 10: tvg-id="" tvg-name="PPV| LIVE EVENT 10 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 10 [EVENT ONLY]: 
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452738
-#EXTINF:-1,PPV MAIN EVENT 11: tvg-id="" tvg-name="PPV| LIVE EVENT 11 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 11 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452739
-#EXTINF:-1,PPV MAIN EVENT 12: tvg-id="" tvg-name="PPV| LIVE EVENT 12 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 12 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452740
-#EXTINF:-1,PPV MAIN EVENT 13: tvg-id="" tvg-name="PPV| LIVE EVENT 13 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 13 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452741
-#EXTINF:-1,PPV MAIN EVENT 14: tvg-id="" tvg-name="PPV| LIVE EVENT 14 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 14 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452742
-#EXTINF:-1,PPV MAIN EVENT 15: tvg-id="" tvg-name="PPV| LIVE EVENT 15 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 15 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452743
-#EXTINF:-1,PPV MAIN EVENT 16: tvg-id="" tvg-name="PPV| LIVE EVENT 16 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 16 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452744
-#EXTINF:-1,PPV MAIN EVENT 17: tvg-id="" tvg-name="PPV| LIVE EVENT 17 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 17 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452745
-#EXTINF:-1,PPV MAIN EVENT 18: tvg-id="" tvg-name="PPV| LIVE EVENT 18 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 18 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452746
-#EXTINF:-1,PPV MAIN EVENT 19: tvg-id="" tvg-name="PPV| LIVE EVENT 19 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 19 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452747
-#EXTINF:-1,PPV MAIN EVENT 20: tvg-id="" tvg-name="PPV| LIVE EVENT 20 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 20 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452748
-#EXTINF:-1,PPV MAIN EVENT 21:tvg-id="" tvg-name="PPV| LIVE EVENT 21 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 21 [EVENT ONLY]
-http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452749
-
-
-
 #EXTINF:-1,tvg-name=""VIA ▎VIAPLAY EVENTS 01""tvg-id="" tvg-logo="https://iili.io/doBG8rl.png" group-title="🏆LIVE EVENT 2",VIAPLAY EVENTS 1
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1215802
 #EXTINF:-1,tvg-name=""VIA ▎VIAPLAY EVENTS 02"" tvg-id="" tvg-logo="https://iili.io/doBG8rl.png" group-title="🏆LIVE EVENT 2",VIAPLAY EVENTS 2
@@ -5604,6 +5532,77 @@ http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1215815
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1215816
 #EXTINF:-1,tvg-name=""VIA ▎VIAPLAY EVENTS 16"":tvg-id="" tvg-logo="https://iili.io/doBG8rl.png" group-title="🏆LIVE EVENT 2",VIAPLAY EVENTS 16
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1449884
+
+
+#EXTINF:-1,PPV MAIN EVENT 1: tvg-id="" tvg-name="PPV| LIVE EVENT 1 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 1 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477461
+#EXTINF:-1,PPV MAIN EVENT 2:  tvg-id="" tvg-name="PPV| LIVE EVENT 2 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 2 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477462
+#EXTINF:-1,PPV MAIN EVENT 3:  tvg-id="" tvg-name="PPV| LIVE EVENT 3[EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 3 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477463
+#EXTINF:-1,PPV MAIN EVENT 4: tvg-id="" tvg-name="PPV| LIVE EVENT 4[EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 4 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477464
+#EXTINF:-1,PPV MAIN EVENT 5:  tvg-id="" tvg-name="PPV| LIVE EVENT 5 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 5 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477465
+#EXTINF:-1,PPV MAIN EVENT 6:  tvg-id="" tvg-name="PPV| LIVE EVENT  6 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 6 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477466
+#EXTINF:-1,PPV MAIN EVENT 7:tvg-id="" tvg-name="PPV| LIVE EVENT 7 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 7 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477467
+#EXTINF:-1,PPV MAIN EVENT 8:tvg-id="" tvg-name="PPV| LIVE EVENT 8 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 8 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477468
+#EXTINF:-1,PPV MAIN EVENT 9: tvg-id="" tvg-name="PPV| LIVE EVENT 9 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 9 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477469
+#EXTINF:-1,PPV MAIN EVENT 10:  tvg-id="" tvg-name="PPV| LIVE EVENT 10 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 10 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1477470
+
+
+
+
+
+#EXTINF:-1,PPV MAIN EVENT 1: tvg-id="" tvg-name="PPV| LIVE EVENT 1 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 1 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452729
+
+#EXTINF:-1,PPV MAIN EVENT 2: tvg-id="" tvg-name="PPV| LIVE EVENT 2 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 2  [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452730
+
+#EXTINF:-1,PPV MAIN EVENT 3: tvg-id="" tvg-name="PPV| LIVE EVENT 3 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 3  [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452731
+#EXTINF:-1,PPV MAIN EVENT 4: tvg-id="" tvg-name="PPV| LIVE EVENT 4 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 4 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452732
+#EXTINF:-1,PPV MAIN EVENT 5: tvg-id="" tvg-name="PPV| LIVE EVENT 5 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 5 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452733
+#EXTINF:-1,PPV MAIN EVENT 6: tvg-id="" tvg-name="PPV| LIVE EVENT 6 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 6 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452734
+#EXTINF:-1,PPV MAIN EVENT 7: tvg-id="" tvg-name="PPV| LIVE EVENT 7 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 7 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452735
+#EXTINF:-1,PPV MAIN EVENT 8: tvg-id="" tvg-name="PPV| LIVE EVENT 8 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 8 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452736
+#EXTINF:-1,PPV MAIN EVENT 9: tvg-id="" tvg-name="PPV| LIVE EVENT 9 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 9 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452737
+#EXTINF:-1,PPV MAIN EVENT 10: tvg-id="" tvg-name="PPV| LIVE EVENT 10 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 10 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452738
+#EXTINF:-1,PPV MAIN EVENT 11: tvg-id="" tvg-name="PPV| LIVE EVENT 11 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 11 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452739
+#EXTINF:-1,PPV MAIN EVENT 12: tvg-id="" tvg-name="PPV| LIVE EVENT 12 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 12 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452740
+#EXTINF:-1,PPV MAIN EVENT 13: tvg-id="" tvg-name="PPV| LIVE EVENT 13 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 13 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452741
+#EXTINF:-1,PPV MAIN EVENT 14: tvg-id="" tvg-name="PPV| LIVE EVENT 14 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 14 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452742
+#EXTINF:-1,PPV MAIN EVENT 15: tvg-id="" tvg-name="PPV| LIVE EVENT 15 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 15 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452743
+#EXTINF:-1,PPV MAIN EVENT 16: tvg-id="" tvg-name="PPV| LIVE EVENT 16 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 16 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452744
+#EXTINF:-1,PPV MAIN EVENT 17: tvg-id="" tvg-name="PPV| LIVE EVENT 17 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 17 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452745
+#EXTINF:-1,PPV MAIN EVENT 18: tvg-id="" tvg-name="PPV| LIVE EVENT 18 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 18 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452746
+#EXTINF:-1,PPV MAIN EVENT 19: tvg-id="" tvg-name="PPV| LIVE EVENT 19 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 19 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452747
+#EXTINF:-1,PPV MAIN EVENT 20: tvg-id="" tvg-name="PPV| LIVE EVENT 20 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 20 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452748
+#EXTINF:-1,PPV MAIN EVENT 21:tvg-id="" tvg-name="PPV| LIVE EVENT 21 [EVENT ONLY]" tvg-logo="https://lo1.in/us/ppv2.png" group-title="🏆LIVE EVENT 2",PPV| LIVE EVENT 21 [EVENT ONLY]
+http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/1452749
 
 
 
@@ -5681,103 +5680,97 @@ http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/527354
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/527355
 #EXTINF:-1,tvg-name="DE ▎DAZN 20 HD"tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="🏆LIVE EVENT 2" DANZ 20 HD LIVE EVENT
 
-
-
-
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 1"tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2" AU STAN EVENT 1 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 1"tvg-id=""tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 1 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554129
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 2 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 2 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 2"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 2 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554130
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 3 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 3 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 3"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 3 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554131
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 4 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 4 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 4"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 4 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554132
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 5 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 5 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 5"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 5 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554133
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 6 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 6 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 6"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 6 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554134
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 7 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 7 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 7"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 7 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554135
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 8 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 8 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 8"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 8 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554136
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 9 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 9 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 9"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 9 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554137
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 10 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 10 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 10"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 10 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554138
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 11 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 11 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 11"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 11 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554139
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 12 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 12 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 12"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 12 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554140
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 13 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 13 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 13"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 13 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554141
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 14 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 14 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 14"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 14 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554142
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 15 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 15 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 15"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 15 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554143
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 16 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 16 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 16"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 16 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554144
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 17 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 17 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 17"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 17 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554145
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 18 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 18 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 18"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 18 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554146
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 19 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 19 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 19"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 19 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554147
-#EXTINF:-1,tvg-name="AU ▎STAN EVENT 20 "tvg-logo="https://img.logo-cdn.cc/stanevent.png"group-title="🏆LIVE EVENT 2"AU STAN EVENT 20 HD
+#EXTINF:-1,tvg-name="AU ▎STAN EVENT 20"tvg-id="" tvg-logo="https://img.logo-cdn.cc/stanevent.png" group-title="🏆LIVE EVENT 2",AU STAN EVENT 20 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/554148
 
-#EXTINF:-1,AU ▎OPTUS SPORT 1 HD tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2" AU OPTUS SPORT 1 HD
+#EXTINF:-1,tvg-name="AU ▎OPTUS SPORT 1 HD "tvg-id="" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2",AU OPTUS SPORT 1 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/733114
-#EXTINF:-1,AU ▎OPTUS SPORT 2 HD tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2" AU OPTUS SPORT 2 HD
+#EXTINF:-1,tvg-name="AU ▎OPTUS SPORT 2 HD "tvg-id="" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2",AU OPTUS SPORT 2 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/733115
-#EXTINF:-1,AU ▎OPTUS SPORT 3 HD tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2" AU OPTUS SPORT 3 HD
+#EXTINF:-1,tvg-name="AU ▎OPTUS SPORT 3 HD "tvg-id="" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2",AU OPTUS SPORT 3 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/733116
-#EXTINF:-1,AU ▎OPTUS SPORT 4 HD tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2" AU OPTUS SPORT 4 HD
+#EXTINF:-1,tvg-name="AU ▎OPTUS SPORT 4 HD "tvg-id="" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2",AU OPTUS SPORT 4 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/733117
-#EXTINF:-1,AU ▎OPTUS SPORT 5 HD tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2" AU OPTUS SPORT 5 HD
+#EXTINF:-1,tvg-name="AU ▎OPTUS SPORT 5 HD "tvg-id="" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2",AU OPTUS SPORT 5 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/733118
-#EXTINF:-1,AU ▎OPTUS SPORT 6 HD tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2" AU OPTUS SPORT 6 HD
+#EXTINF:-1,tvg-name="AU ▎OPTUS SPORT 6 HD "tvg-id="" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2",AU OPTUS SPORT 6 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/733119
-#EXTINF:-1,AU ▎OPTUS SPORT 7 HD tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2" AU OPTUS SPORT 7 HD
+#EXTINF:-1,tvg-name="AU ▎OPTUS SPORT 7 HD "tvg-id="" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2",AU OPTUS SPORT 7 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/733120
-#EXTINF:-1,AU ▎OPTUS SPORT 8 HD tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2" AU OPTUS SPORT 8 HD
+#EXTINF:-1,tvg-name="AU ▎OPTUS SPORT 8 HD "tvg-id="" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2",AU OPTUS SPORT 8 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/733121
-#EXTINF:-1,AU ▎OPTUS SPORT 9 HD tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2" AU OPTUS SPORT 9 HD
+#EXTINF:-1,tvg-name="AU ▎OPTUS SPORT 9 HD "tvg-id="" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2",AU OPTUS SPORT 9 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/733122
-#EXTINF:-1,AU ▎OPTUS SPORT 10 HD tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2" AU OPTUS SPORT 10 HD
+#EXTINF:-1,tvg-name="AU ▎OPTUS SPORT 10 HD "tvg-id="" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2",AU OPTUS SPORT 10 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/733123
-#EXTINF:-1,AU ▎OPTUS SPORT 11 HD tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2" AU OPTUS SPORT 11 HD
+#EXTINF:-1,tvg-name="AU ▎OPTUS SPORT 11 HD "tvg-id="" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2",AU OPTUS SPORT 11 HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/733124
-#EXTINF:-1,AU ▎OPTUS SPORT 12 HD tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2" AU OPTUS SPORT 12 HD
+#EXTINF:-1,tvg-name="AU ▎OPTUS SPORT 12 HD "tvg-id="" tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="🏆LIVE EVENT 2",AU OPTUS SPORT 12 HD
 
-#EXTINF:-1,US ▎PEACOCK EVENT 1 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2" PEACOCK LIVE 1 EVENT HD
+#EXTINF:-1,tvg-name="US ▎PEACOCK  EVENT 1  "tvg-id="" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2",PEACOCK LIVE 1 EVENT HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/653272
-#EXTINF:-1,US ▎PEACOCK EVENT 2 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2" PEACOCK LIVE 2 EVENT HD
+#EXTINF:-1,tvg-name="US ▎PEACOCK  EVENT 2 "tvg-id="" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2",PEACOCK LIVE 2 EVENT HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/653273
-#EXTINF:-1,US ▎PEACOCK EVENT 3 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2" PEACOCK LIVE 3 EVENT HD
+#EXTINF:-1,tvg-name="US ▎PEACOCK  EVENT 3 "tvg-id="" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2",PEACOCK LIVE 3 EVENT HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/653274
-#EXTINF:-1,US ▎PEACOCK EVENT 4 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2" PEACOCK LIVE 4 EVENT HD
+#EXTINF:-1,tvg-name="US ▎PEACOCK  EVENT 4 "tvg-id="" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2",PEACOCK LIVE 4 EVENT HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/653275
-#EXTINF:-1,US ▎PEACOCK EVENT 5 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2" PEACOCK LIVE 5 EVENT HD
+#EXTINF:-1,tvg-name="US ▎PEACOCK  EVENT 5 "tvg-id="" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2",PEACOCK LIVE 5 EVENT HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/653276
-#EXTINF:-1,US ▎PEACOCK EVENT 6 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2" PEACOCK LIVE 6 EVENT HD
+#EXTINF:-1,tvg-name="US ▎PEACOCK  EVENT 6 "tvg-id="" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2",PEACOCK LIVE 6 EVENT HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/653277
-#EXTINF:-1,US ▎PEACOCK EVENT 7 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2" PEACOCK LIVE 7 EVENT HD
+#EXTINF:-1,tvg-name="US ▎PEACOCK  EVENT 7 "tvg-id="" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2",PEACOCK LIVE 7 EVENT HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/653278
-#EXTINF:-1,US ▎PEACOCK EVENT 8 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2" PEACOCK LIVE 8 EVENT HD
+#EXTINF:-1,tvg-name="US ▎PEACOCK  EVENT 8 "tvg-id="" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2",PEACOCK LIVE 8 EVENT HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/653279
-#EXTINF:-1,US ▎PEACOCK EVENT 9 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2" PEACOCK LIVE 9 EVENT HD
+#EXTINF:-1,tvg-name="US ▎PEACOCK  EVENT 9 "tvg-id="" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2",PEACOCK LIVE 9 EVENT HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/653280
-#EXTINF:-1,US ▎PEACOCK EVENT 10 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2" PEACOCK LIVE 10 EVENT HD
+#EXTINF:-1,tvg-name="US ▎PEACOCK  EVENT 10 "tvg-id="" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2",PEACOCK LIVE 10 EVENT HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/653281
-#EXTINF:-1,US ▎PEACOCK EVENT 11 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2" PEACOCK LIVE 11 EVENT HD
+#EXTINF:-1,tvg-name="US ▎PEACOCK  EVENT 11 "tvg-id="" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2",PEACOCK LIVE 11 EVENT HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/653282
-#EXTINF:-1,US ▎PEACOCK EVENT 12 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2" PEACOCK LIVE 12 EVENT HD
+#EXTINF:-1,tvg-name="US ▎PEACOCK  EVENT 12 "tvg-id="" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2",PEACOCK LIVE 12 EVENT HD
 http://mag.king-4k.cc:80/JOSHUAUGO5386/506D4C/653283
-#EXTINF:-1,US ▎PEACOCK EVENT 13 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2" PEACOCK LIVE 13 EVENT HD
+#EXTINF:-1,tvg-name="US ▎PEACOCK  EVENT 13 "tvg-id="" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png"group-title="🏆LIVE EVENT 2",PEACOCK LIVE 13 EVENT HD
 
-  
-  
-  
   
   
 #EXTM3U billed-msg="RASYA TV TIDAK UNTUK DIPERJUAL BELIKAN"
