@@ -6,12 +6,7 @@
 
 ========indo chanel 2==========
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="SHAREEXT@MPD SPORT",Setanta Event 11 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://cdnlb.tvplayhome.lt/live/eds/Setanta26_HD_HVC/GO3_LIVE_DASH_HVC/Setanta26_HD_HVC.mpd
-
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png" group-title="🔴INDONESIA CHANNEL2",1 RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/62ryx1k6tdaeygm/rcti.png" group-title="🔴INDONESIA CHANNEL2",2 RCTI
