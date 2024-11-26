@@ -5363,72 +5363,29 @@ https://tring.s.llnwi.net/delta/102/out/u/tringSport5105.mpd
 
   ============ TRUE SPORT ============
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", T Sports 7(3)
-http://iptvtree.net:8080/9a9c2e24/d3850543/305381
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", True Premiere Football 1 SD
-http://iptvtree.net:8080/9a9c2e24/d3850543/162591
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", True Premiere Football SD
-http://iptvtree.net:8080/9a9c2e24/d3850543/162592
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", True Premiere Football SD
-http://iptvtree.net:8080/9a9c2e24/d3850543/165101
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", True Premiere Football 4 SD
-http://iptvtree.net:8080/9a9c2e24/d3850543/162593
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", True Premiere Football 5 SD
-http://iptvtree.net:8080/9a9c2e24/d3850543/145033
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", True Sport SD
-http://iptvtree.net:8080/9a9c2e24/d3850543/304834
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", True Sport SD
-http://iptvtree.net:8080/9a9c2e24/d3850543/304833
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", True Sport SD
-http://iptvtree.net:8080/9a9c2e24/d3850543/301871
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", True Sport SD
-http://iptvtree.net:8080/9a9c2e24/d3850543/285569
+#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 1 HD TH" tvg-logo="" group-title="⚽TRUE SPORT",True Premiere Football 1 HD TH
+http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/8508
+#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 2 TH" tvg-logo="" group-title="⚽TRUE SPORT",True Premiere Football 2 TH
+http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/8685
+#EXTINF:-1 tvg-id="" tvg-name="True Premiere Football 3 HD TH" tvg-logo="" group-title="⚽TRUE SPORT",True Premiere Football 3 HD TH
+http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/8684
 
-
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", TRUE.PREMIER.1 (php)
-https://zeestb.cdn77.icu/love4all.php?id=186574&extension=ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", TRUE.PREMIER.2 (php)
-https://zeestb.cdn77.icu/love4all.php?id=186576&extension=ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", TRUE.SPORTS.1 (php)
-https://zeestb.cdn77.icu/love4all.php?id=186604&extension=ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", TRUE.SPORTS.2 (php)
-https://zeestb.cdn77.icu/love4all.php?id=186594&extension=ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", TRUE.SPORTS.3 (php)
-https://zeestb.cdn77.icu/love4all.php?id=186602&extension=ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", TRUE.SPORTS.5 (php)
-https://zeestb.cdn77.icu/love4all.php?id=186596&extension=ts
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/bNxxFJh/True-Sports-shareext.jpg" group-title="⚽TRUE SPORT", TRUE.SPORTS.7 (php)
-https://zeestb.cdn77.icu/love4all.php?id=186598&extension=ts
-  
-#EXTINF:-1  tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png" group-title="⚽TRUE SPORT",TH:TRUE BEINSPORTS 1
-https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png" group-title="⚽TRUE SPORT",TH:TRUE BEINSPORTS 2
-https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/b5c591af-060c-48ea-91ec-e1a230818c27.png" group-title="⚽TRUE SPORT",TH:TRUE BEINSPORTS 3
-https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/ba1de35c-8a25-47de-a27c-5cd8f705a14f.png" group-title="⚽TRUE SPORT",TH:TRUE PREMIERE FOOTBALL 1 HD
-https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/f815743f-72e1-4dcc-ad17-925657183a24.png" group-title="⚽TRUE SPORT",TH:TRUE PREMIERE FOOTBALL 2 HD
-https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/1c11f698-75a0-449d-8a79-6a52be569911.png" group-title="⚽TRUE SPORT",TH:TRUE PREMIERE FOOTBALL 3 HD
-https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/1be50729-1560-4f16-88a8-6ac653afe8e1.png" group-title="⚽TRUE SPORT",TH:TRUE PREMIERE FOOTBALL 4 HD
-https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/133a8160-6e09-4c7f-80e4-39a45f296d00.png" group-title="⚽TRUE SPORT",TH:TRUE PREMIERE FOOTBALL 5 HD
-https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="⚽TRUE SPORT",TH:TRUE SPORT 1 HD
-https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="⚽TRUE SPORT",TH:TRUE SPORT 2 HD
-https://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="⚽TRUE SPORT",TH:TRUE SPORT 3 HD
-https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp" group-title="⚽TRUE SPORT",TH:TRUE SPORT 4 HD
-https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="⚽TRUE SPORT",TH:TRUE SPORT 5 HD
-https://www.livedoomovies.com:4432/02_2sporthd5_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="⚽TRUE SPORT",TH:TRUE SPORT 7 HD
-https://www.livedoomovies.com:4432/02_2sporthd7_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 1 FHD VIP SPORTS" tvg-logo="" group-title="⚽TRUE SPORT",True Premier Football 1 FHD VIP SPORTS
+http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/117331
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 2 FHD VIP SPORTS" tvg-logo="" group-title="⚽TRUE SPORT",True Premier Football 2 FHD VIP SPORTS
+http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/117330
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 3 FHD VIP SPORTS" tvg-logo="" group-title="⚽TRUE SPORT",True Premier Football 3 FHD VIP SPORTS
+http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/117329
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 4 FHD VIP SPORTS" tvg-logo="" group-title="⚽TRUE SPORT",True Premier Football 4 FHD VIP SPORTS
+http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/117328
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 5 FHD VIP SPORTS" tvg-logo="" group-title="⚽TRUE SPORT",True Premier Football 5 FHD VIP SPORTS
+http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/117327
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 6 FHD VIP SPORTS" tvg-logo="" group-title="⚽TRUE SPORT",True Premier Football 6 FHD VIP SPORTS
+http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/117326
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 7 FHD VIP SPORTS" tvg-logo="" group-title="⚽TRUE SPORT",True Premier Football 7 FHD VIP SPORTS
+http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/117325
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Football 8 FHD VIP SPORTS" tvg-logo="" group-title="⚽TRUE SPORT",True Premier Football 8 FHD VIP SPORTS
+http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/117324
   
 ========== ESPN & FOX SPORT ======
 
