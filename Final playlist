@@ -5,8 +5,143 @@
 
 
 
+==========
 
+#EXTM3U
+#EXTINF:-1 tvg-id="b9FSqhy" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/football.png" group-title="⚽LIVE EVENT ELIT", AFC Champions League 2 : Eastern A.A Football Team vs Sydney FC  (17:00 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=b9FSqhy
 
+#EXTINF:-1 tvg-id="D73TWcT" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/football.png" group-title="⚽LIVE EVENT ELIT", AFC Champions League 2 : Jeonbuk Hyundai Motors vs Dynamic Herb Cebu  (17:00 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=D73TWcT
+
+#EXTINF:-1 tvg-id="MMcmXAG" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/football.png" group-title="⚽LIVE EVENT ELIT", Friendly : Australia (w) vs Brazil (w)  (17:00 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=MMcmXAG
+
+#EXTINF:-1 tvg-id="Dao1D6w" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/football.png" group-title="⚽LIVE EVENT ELIT", K League 1 : Chungnam Asan vs Daegu FC  (17:00 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=Dao1D6w
+
+#EXTINF:-1 tvg-id="n8iHXxe" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/football.png" group-title="⚽LIVE EVENT ELIT", AFC Champions League 2 : Kaya FC vs Hiroshima Sanfrecce  (18:00 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=n8iHXxe
+
+#EXTINF:-1 tvg-id="q3TpPC8" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/football.png" group-title="⚽LIVE EVENT ELIT", AFC Champions League 2 : Zhejiang Greentown vs Lion City Sailors  (19:00 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=q3TpPC8
+
+#EXTINF:-1 tvg-id="QKQGtdA" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/football.png" group-title="⚽LIVE EVENT ELIT", AFC Champions League 2 : Selangor vs Muang Thong United  (19:00 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=QKQGtdA
+
+#EXTINF:-1 tvg-id="QBAbygt" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/football.png" group-title="⚽LIVE EVENT ELIT", AFC Champions League 2 : Port FC vs Persib Bandung  (21:00 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=QBAbygt
+
+#EXTINF:-1 tvg-id="s9fVS5g" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/football.png" group-title="⚽LIVE EVENT ELIT", Friendly : Russia (w) vs Azerbaijan (w)  (21:00 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=s9fVS5g
+
+#EXTINF:-1 tvg-id="sPlh3TO" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/football.png" group-title="⚽LIVE EVENT ELIT", Europa Conference League : FC Astana vs Vitoria Guimaraes  (22:30 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=sPlh3TO
+
+#EXTINF:-1 tvg-id="5lYZyF5" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/football.png" group-title="⚽LIVE EVENT ELIT", Russian Cup : Lokomotiv Moscow vs Dynamo Moscow  (23:30 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=5lYZyF5
+
+#EXTINF:-1 tvg-id="S0n3MZa" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/football.png" group-title="⚽LIVE EVENT ELIT", Europa League : Anderlecht vs FC Porto  (00:45 WIB * 29-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=S0n3MZa
+
+#EXTINF:-1 tvg-id="ggMr8s2" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/basketball.png" group-title="⚽LIVE EVENT ELIT", NBL: Australian Basketball : Illawarra Hawks vs New Zealand Breakers  (15:30 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=ggMr8s2
+
+#EXTINF:-1 tvg-id="EitGF5H" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/basketball.png" group-title="⚽LIVE EVENT ELIT", Philippine Basketball Commissioner Cup : NorthPort Batang Pier vs NLEX Road Warriors  (16:00 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=EitGF5H
+
+#EXTINF:-1 tvg-id="fgJoxya" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/basketball.png" group-title="⚽LIVE EVENT ELIT", KBL: Korean Basketball : Wonju Dongbu Promy vs Goyang Sono Skygunners  (17:00 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=fgJoxya
+
+#EXTINF:-1 tvg-id="NbxFJUY" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/basketball.png" group-title="⚽LIVE EVENT ELIT", KBL: Korean Basketball : Seoul Samsung Thunders vs Suwon KT Sonicboom  (17:00 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=NbxFJUY
+
+#EXTINF:-1 tvg-id="5ghnWFS" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/basketball.png" group-title="⚽LIVE EVENT ELIT", Philippine Basketball Commissioner Cup : Blackwater Bossing vs Magnolia Hotshots  (18:30 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=5ghnWFS
+
+#EXTINF:-1 tvg-id="5Nlb241" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/basketball.png" group-title="⚽LIVE EVENT ELIT", European basketball champion : Zalgiris vs Saski Baskonia  (01:00 WIB * 29-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=5Nlb241
+
+#EXTINF:-1 tvg-id="091uiko" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/basketball.png" group-title="⚽LIVE EVENT ELIT", European basketball champion : Alba Berlin vs Maccabi Tel Aviv  (02:00 WIB * 29-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=091uiko
+
+#EXTINF:-1 tvg-id="4ESBnS5" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/basketball.png" group-title="⚽LIVE EVENT ELIT", European basketball champion : Paris Basketball vs Virtus Pallacanestro Bologna  (02:30 WIB * 29-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=4ESBnS5
+
+#EXTINF:-1 tvg-id="X7y7JK0" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/basketball.png" group-title="⚽LIVE EVENT ELIT", European basketball champion : KK Partizan vs Olympiacos Piraeus  (02:30 WIB * 29-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=X7y7JK0
+
+#EXTINF:-1 tvg-id="XfbsGGC" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/basketball.png" group-title="⚽LIVE EVENT ELIT", European basketball champion : Winterthur F.C. Barcelona vs Real Madrid Baloncesto  (02:45 WIB * 29-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=XfbsGGC
+
+#EXTINF:-1 tvg-id="588jjqm" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/volleyball.png" group-title="⚽LIVE EVENT ELIT", Korean men's volleyball : Hyundai Skywalkers vs Rush & Cash  (17:00 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=588jjqm
+
+#EXTINF:-1 tvg-id="eLqjgPW" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/volleyball.png" group-title="⚽LIVE EVENT ELIT", Korean women's volleyball : GS Caltex W vs Hungkuk W  (17:00 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=eLqjgPW
+
+#EXTINF:-1 tvg-id="85CgDwn" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/volleyball.png" group-title="⚽LIVE EVENT ELIT", Japanese men's volleyball : Suntory Sunbirds vs Osaka Sakai  (17:05 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=85CgDwn
+
+#EXTINF:-1 tvg-id="gxbXrn9" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/volleyball.png" group-title="⚽LIVE EVENT ELIT", European women's volleyball : Vakifbank W vs Milano W  (23:30 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=gxbXrn9
+
+#EXTINF:-1 tvg-id="Nag4Zpc" tvg-logo="https://xem3.thapcamtivi.asia/images/icons/badminton.png" group-title="⚽LIVE EVENT ELIT", Badminton : Syed Modi India 2024  (11:30 WIB * 28-11-2024)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://udinlaw.sytes.net:8000/scripts/thapcam/index.php?id=Nag4Zpc
 
 
 ==========INDONESIA CHANNEL3========
