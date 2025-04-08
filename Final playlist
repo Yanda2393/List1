@@ -7273,6 +7273,33 @@ https://ddy6new.newkso.ru/ddy6/premium728/mono.m3u8|referer=https://pkpakiplay.x
 
 
 
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-10.0 tvg-logo="https://i.imgur.com/dgnN0uR.png" group-title="- ⭐VIP⭐LIVE TV ID💵RP.10RB💵|HD+|UHD|FHD|2K|4K|8K|💳 -",⭐ID: BEIN SPORTS 1 ⭐
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd  
+
+
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-10.0 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="- ⭐VIP⭐LIVE TV ID💵RP.10RB💵|HD+|UHD|FHD|2K|4K|8K|💳 -",⭐ID: BEIN SPORTS 2 ⭐
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd  
+
+
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:-10.0 tvg-logo="https://i.imgur.com/uCp65Xz.png" group-title="- ⭐VIP⭐LIVE TV ID💵RP.10RB💵|HD+|UHD|FHD|2K|4K|8K|💳 -",⭐ID: BEIN SPORTS 3 ⭐
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
 
